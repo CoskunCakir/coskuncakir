@@ -1,4 +1,4 @@
-### Hi! I'm Coskun 👋
+### Hi! 👋
 
 I am a JavaScript developer that focuses on Front End frameworks such as React and Angular. I have a passion for Design Systems, Web Accessibility and JAMstack applications with a desire to constantly develop new skills. 
 

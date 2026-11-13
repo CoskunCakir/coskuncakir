@@ -2,7 +2,7 @@
 
 Senior front-end developer based in London, building web and mobile apps since 2013.
 
-- 🎯 Most recently: sportsbook products at Amelco for operators including HKJC, Bet99, BCLC and Tote — cashout, betslips and payouts across web, iOS and Android, plus retail kiosk apps
+- 🎯 Most recently: sportsbook products at Amelco for international betting operators — cashout, betslips and payouts across web, iOS and Android, plus retail kiosk apps
 - 💳 Before that: Angular checkout and merchant platforms at Financial House (FinTech)
 - 🛠️ Main stack: React, Next.js, TypeScript, Angular, React Native, Vitest
 

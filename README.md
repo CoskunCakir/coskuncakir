@@ -11,8 +11,6 @@ Senior front-end developer based in London, building web and mobile apps since 2
 - **[Lostromo](https://lostromo.app)** — a multi-tenant booking platform for boat tour operators, live with paying operators
 - **[Filiz](https://filiz.app)** — an AI-assisted resume builder for software engineers
 
-Most of my day-to-day work lives in private repositories, so the contribution graph tells more of the story than the public repos.
-
 #### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/coskuncakir) · coskun@grycode.co.uk

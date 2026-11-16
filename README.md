@@ -8,7 +8,7 @@ Senior front-end developer based in London, building web and mobile apps since 2
 
 #### What I'm building
 
-- **[Lostromo](https://lostromo.app)** — a multi-tenant booking platform for boat tour operators, live with paying operators
+- **[Lostromo](https://lostromo.app/en)** — a multi-tenant booking platform for boat tour operators, live with paying operators
 - **[Filiz](https://filiz.app)** — an AI-assisted resume builder for software engineers
 
 #### Get in touch
